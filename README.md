@@ -1,4 +1,5 @@
 # Bert-Chinese-Text-Classification-Pytorch
+# Patent-clustering
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 中文文本分类，Bert，ERNIE，基于pytorch，开箱即用。
@@ -95,3 +96,4 @@ python run.py --model ERNIE
 ## 对应论文
 [1] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding  
 [2] ERNIE: Enhanced Representation through Knowledge Integration  
+
